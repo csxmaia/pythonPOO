@@ -1,0 +1,1 @@
+{'_Pessoa__nome': 'gta', '_Pessoa__idade': '19', '_Pessoa__telefone': '997516796', '_Pessoa__carro': <classes.Carro.Carro object at 0x7f2ebfaea518>, '_Fisica__cpf': 44444444444}
